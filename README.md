@@ -22,6 +22,9 @@ The application presents a parabola of x²=4py. The user is able to modify the s
 
 ![image](https://user-images.githubusercontent.com/5817861/216724258-7f579bb8-8ce9-4da7-93dd-d8e6bfc6058f.png)
 
+[2023-02-03 18-01-22-1.webm](https://user-images.githubusercontent.com/5817861/216727301-8bc0d236-3866-4221-b0ae-b1b7a222c898.webm)
+
+
 # PowerSupply
 
 A simple representation of a 120V AC to 12V DC power transformer. On/off button toggles animations in red across the line at the bottom, which correlate to the amplitude of voltage (note only positive values after the diode rectifier) as a visual aid.
