@@ -16,7 +16,7 @@ Relates several mathematical properties of a circle to one another.
 
 # Parabola
 
-The application presents a parabola of x²=4py. The user is able to modify the shape and direction of the parabola, as well as play with selecting a point along the curve to see how the tangeant changes with that points position on the parabola. A "reflector" mode is available in the second image bellow to show how various angles of a beam would be reflected in the shape (more details on practical applications of parabolas by pressing the "applications" button).
+The application presents a parabola of x²=4py. The user is able to modify the shape and direction of the parabola, as well as play with selecting a point along the curve to see how the tangeant changes with that points position on the parabola. A "reflector" mode is available in the second image bellow to show how various angles of a beam would be reflected in the shape, the focal point is modifiable, the program will change the parabola's shape to reflect it. (more details on practical applications of parabolas by pressing the "applications" button)
 
 ![image](https://user-images.githubusercontent.com/5817861/216723680-4119057a-8a15-45ab-9813-457d8d39ca8d.png)
 
