@@ -8,22 +8,17 @@ Helps students develop a more intuitive understanding of the relationship of ang
 
 ![trigtutor](https://user-images.githubusercontent.com/5817861/216714046-382b555c-7728-4e8d-8b23-012491f3a244.png)
 
+# Parabola
+
+The application presents a parabola of x²=4py. The user is able to modify the shape and direction of the parabola, as well as play with selecting a point along the curve to see how the tangeant changes with that points position on the parabola. A "reflector" mode is available in the second image bellow to show how various angles of a beam would be reflected in the shape, the focal point is modifiable, the program will change the parabola's shape to reflect it. (more details on practical applications of parabolas by pressing the "applications" button)
+
+[2023-02-03 18-01-22-1.webm](https://user-images.githubusercontent.com/5817861/216727301-8bc0d236-3866-4221-b0ae-b1b7a222c898.webm)
+
 # Circle
 
 Relates several mathematical properties of a circle to one another.
 
 ![image](https://user-images.githubusercontent.com/5817861/216723077-31fe6144-ee1e-43a0-bc92-97268f75ce36.png)
-
-# Parabola
-
-The application presents a parabola of x²=4py. The user is able to modify the shape and direction of the parabola, as well as play with selecting a point along the curve to see how the tangeant changes with that points position on the parabola. A "reflector" mode is available in the second image bellow to show how various angles of a beam would be reflected in the shape, the focal point is modifiable, the program will change the parabola's shape to reflect it. (more details on practical applications of parabolas by pressing the "applications" button)
-
-![image](https://user-images.githubusercontent.com/5817861/216723680-4119057a-8a15-45ab-9813-457d8d39ca8d.png)
-
-![image](https://user-images.githubusercontent.com/5817861/216724258-7f579bb8-8ce9-4da7-93dd-d8e6bfc6058f.png)
-
-[2023-02-03 18-01-22-1.webm](https://user-images.githubusercontent.com/5817861/216727301-8bc0d236-3866-4221-b0ae-b1b7a222c898.webm)
-
 
 # PowerSupply
 
