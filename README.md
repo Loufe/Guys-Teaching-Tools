@@ -34,7 +34,9 @@ Much like TrigTutor, TriangleDemo presents a modifiable triangle and displays th
 
 ![image](https://user-images.githubusercontent.com/5817861/216726283-7f50d345-e5aa-464a-8a09-f9dbc0409f49.png)
 
+# Installation and Use
 
+These java files are **not compiled**. You will need to generate your own binaries. If you would like to use these tools but compiling the files is beyond your technilogical knowledge, please feel free to reach out. I'd be happy to discuss creating executable files or a web integration.
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
